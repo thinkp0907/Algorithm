@@ -1,1 +1,3 @@
-#Alorithm
+# Algorithm
+Daily Alogorithm
+
